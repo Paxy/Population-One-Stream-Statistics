@@ -32,3 +32,7 @@ Variables:
 - allowUnknown - Allow display Unknown when weapon type could not be detected by OCR. If false, system will keep trying to detect a weapon which may increase detection inaccuracy.
 - guns - list of Guns that can be OCR readed from screen kill log. Its used to improve gun detection accuracy.
 - browser - path to Tessaract-OCR. By default, "C:\Program Files\Tesseract-OCR\tesseract.exe".
+
+## Support
+If you support my work, you are free to follow me in my Twitch channel, help me get that Verified status, and join me in POP1 Squads.
+Feel free to fork and improve my work!
